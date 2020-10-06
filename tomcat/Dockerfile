@@ -1,5 +1,5 @@
 FROM openjdk:11-jre-slim
-MAINTAINER Foo Bar <foo@bar.com>
+MAINTAINER Foo bar <foo@bar.com>
 
 RUN apt-get update
 RUN apt-get -y install wget
